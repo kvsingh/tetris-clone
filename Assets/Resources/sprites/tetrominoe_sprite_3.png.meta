@@ -1,9 +1,8 @@
 fileFormatVersion: 2
-guid: a6beeabe7dc55ab48b0747a0c23ce01f
+guid: 4bdd75cf2289bf64b98cfb8146abd520
 TextureImporter:
   fileIDToRecycleName:
-    21300000: block-other
-    21300002: block
+    21300000: tetrominoe_sprite_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -27,16 +26,16 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: 1
+    aniso: -1
     mipBias: -1
-    wrapMode: 1
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 8
+  alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
