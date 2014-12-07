@@ -83,7 +83,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 2.05800486
+      value: 2.78152561
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.y
@@ -124,12 +124,11 @@ Prefab:
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Font
       value: 
-      objectReference: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3,
-        type: 3}
+      objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 2300000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+      objectReference: {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Color.rgba
       value: 4294967295
@@ -149,7 +148,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 3.39909029
+      value: 3.45474625
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.y
@@ -190,12 +189,11 @@ Prefab:
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Font
       value: 
-      objectReference: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3,
-        type: 3}
+      objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 2300000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+      objectReference: {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Color.rgba
       value: 4294967295
@@ -256,7 +254,7 @@ TextMesh:
   m_FontSize: 80
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -273,7 +271,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -288,7 +286,7 @@ Transform:
   m_PrefabInternal: {fileID: 711076895}
   m_GameObject: {fileID: 662404220}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.61806917, y: 6.24117994, z: 0}
+  m_LocalPosition: {x: 3.61806965, y: 6.24117994, z: 0}
   m_LocalScale: {x: .100000001, y: .100000001, z: .100000001}
   m_Children: []
   m_Father: {fileID: 0}
@@ -326,7 +324,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 3.61806917
+      value: 3.61806965
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.y
@@ -367,12 +365,11 @@ Prefab:
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Font
       value: 
-      objectReference: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3,
-        type: 3}
+      objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 2300000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+      objectReference: {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Color.rgba
       value: 4294967295
@@ -476,7 +473,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 1.86536121
+      value: 2.47757101
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.y
@@ -521,12 +518,11 @@ Prefab:
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Font
       value: 
-      objectReference: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3,
-        type: 3}
+      objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 2300000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+      objectReference: {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Color.rgba
       value: 4294967295
@@ -587,7 +583,7 @@ TextMesh:
   m_FontSize: 80
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -604,7 +600,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -619,7 +615,7 @@ Transform:
   m_PrefabInternal: {fileID: 885517753}
   m_GameObject: {fileID: 1448560547}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.86536121, y: 9.04557419, z: 0}
+  m_LocalPosition: {x: 2.47757101, y: 9.04557419, z: 0}
   m_LocalScale: {x: .100000001, y: .100000001, z: .100000001}
   m_Children: []
   m_Father: {fileID: 0}
@@ -698,7 +694,7 @@ TextMesh:
   m_FontSize: 80
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -715,7 +711,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -730,7 +726,7 @@ Transform:
   m_PrefabInternal: {fileID: 1997647054}
   m_GameObject: {fileID: 1576452993}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.67248917, y: 7.17414427, z: 0}
+  m_LocalPosition: {x: 2.28469896, y: 7.17414427, z: 0}
   m_LocalScale: {x: .100000001, y: .100000001, z: .100000001}
   m_Children: []
   m_Father: {fileID: 0}
@@ -809,7 +805,7 @@ TextMesh:
   m_FontSize: 80
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -826,7 +822,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -841,7 +837,7 @@ Transform:
   m_PrefabInternal: {fileID: 474134847}
   m_GameObject: {fileID: 1599440663}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.39909029, y: 8.08796692, z: 0}
+  m_LocalPosition: {x: 3.45474625, y: 8.08796692, z: 0}
   m_LocalScale: {x: .100000001, y: .100000001, z: .100000001}
   m_Children: []
   m_Father: {fileID: 0}
@@ -956,7 +952,7 @@ TextMesh:
   m_FontSize: 120
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -973,7 +969,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+  - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -988,7 +984,7 @@ Transform:
   m_PrefabInternal: {fileID: 462845793}
   m_GameObject: {fileID: 1658539311}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.05800486, y: 11.8443451, z: 0}
+  m_LocalPosition: {x: 2.78152561, y: 11.8443451, z: 0}
   m_LocalScale: {x: .100000001, y: .100000001, z: .100000001}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1077,7 +1073,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 1.67248917
+      value: 2.28469896
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_LocalPosition.y
@@ -1118,12 +1114,11 @@ Prefab:
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Font
       value: 
-      objectReference: {fileID: 12800000, guid: 381eeea0e0f94cd45bf74b326921c0b3,
-        type: 3}
+      objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 2300000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 381eeea0e0f94cd45bf74b326921c0b3, type: 3}
+      objectReference: {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Color.rgba
       value: 4294967295
