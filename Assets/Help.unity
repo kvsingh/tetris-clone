@@ -383,7 +383,7 @@ TextMesh:
     type: 2}
   m_PrefabInternal: {fileID: 901410690}
   m_GameObject: {fileID: 56376700}
-  m_Text: Up Arrow Key
+  m_Text: Enter
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -1116,7 +1116,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 10200000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Text
-      value: Up Arrow Key
+      value: Enter
       objectReference: {fileID: 0}
     - target: {fileID: 6500000, guid: 6d3ed384a5c86d84d80fcc22f5cd9df9, type: 2}
       propertyPath: m_Size.x

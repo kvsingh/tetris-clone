@@ -272,4 +272,4 @@ class Spawner (MonoBehaviour):
 			GUI.Label(Rect(110,230,150,350), "Move Left \t \t \t \t Left Arrow Key", font)
 			GUI.Label(Rect(110,250,150,350), "Move Right \t \t \t \t Right Arrow Key", font)
 			GUI.Label(Rect(110,270,150,350), "Accelerate Down \t Down Arrow Key", font)
-			GUI.Label(Rect(110,290,150,350), "Rotate	\t \t \t \t	Up Arrow Key", font)
+			GUI.Label(Rect(110,290,150,350), "Rotate	\t \t \t \t	Enter", font)
